@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008363068060",
+    "project_id": "firestoretugasfourtwenty",
+    "storage_bucket": "firestoretugasfourtwenty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008363068060:android:de7fc2bda6e911661dab59",
+        "android_client_info": {
+          "package_name": "com.example.m_09"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt2ZAq_-d6zSs4g6ZpVuZrV_OT2ZAwrVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
